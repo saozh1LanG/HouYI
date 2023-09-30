@@ -8,7 +8,7 @@
 [+]new bypassAV with fiber XD
 [+]use leveon's certificate in a Processprotect.
 [-]just one exe loading 
----------------------------------------------------------------------------------------
+------------------------------------------------
 How 2 use it?
 just inject your shellcode in to the C.document
 and add or type a new EXE name into the Protect.map(just 1 exe XD
